@@ -18,7 +18,7 @@ of alignment between them
 ![Dialogue Length](pygmalion_dialogue_length.png)
 
 ### Sentiment Analysis by Act
-![Sentiment Analysis](pygmalion_sentiment.png)
+![Sentiment Analysis](dialogue_sentiment_analysis.png)
 
 ## Techniques Used
 - Dialogue extraction by character and Act
